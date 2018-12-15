@@ -1,0 +1,1 @@
+Pannellum是使用WebGL和JavaScript构建的，带有HTML5和CSS3。 它可以独立运行，也可以使用<iframe>或JavaScript API嵌入。 用于<iframe>嵌入的独立方法是最简单和最简单的方法，但JavaScript API功能更强大，并提供更紧密的集成。 在内部，独立查看器解析URL参数以构建基于JSON的配置，然后使用JavaScript API实例化查看器。 独立查看器接受配置参数的子集作为URL参数; 可以使用特殊配置URL参数指定的JSON配置文件来设置其余参数。
